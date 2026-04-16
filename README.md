@@ -50,7 +50,7 @@ Transforms insights into clear actions:
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard]([images/dashboard_preview.png](https://public.tableau.com/app/profile/vanshika.tomar/viz/finsight_dashboard/Dashboard?publish=yes))
+![Dashboard]([[images/dashboard_preview.png](https://public.tableau.com/app/profile/vanshika.tomar/viz/finsight_dashboard/Dashboard?publish=yes](https://github.com/Vanshika1664/Blostem-AI-Builder-Hackathon/blob/main/dashboard_preview.png.png)))
 
 
 ---
