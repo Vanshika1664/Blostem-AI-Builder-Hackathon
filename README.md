@@ -50,9 +50,8 @@ Transforms insights into clear actions:
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard]([images/dashboard_preview.png](https://public.tableau.com/app/profile/vanshika.tomar/viz/finsight_dashboard/Dashboard?publish=yes))
 
-👉 **Live Dashboard:** (Add your Tableau Public link here)
 
 ---
 
