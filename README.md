@@ -61,6 +61,10 @@ The FinSight dashboard acts as a decision interface for businesses, combining mu
 
 Built using Tableau, the dashboard enables stakeholders to move from insight to action seamlessly.
 
+---
+
+## 🔗 Live Dashboard
+[View Interactive Dashboard](https://public.tableau.com/app/profile/vanshika.tomar/viz/finsight_dashboard/Dashboard?publish=yes)
 
 ---
 
