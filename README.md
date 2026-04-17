@@ -130,5 +130,5 @@ FinSight helps organizations:
 ## 🏁 Conclusion
 FinSight demonstrates how data can move beyond analysis to become a **decision-making system**, enabling businesses to act faster and smarter.
 
-##Author👩‍💻
+## 👩‍💻 Author
 Vanshika Tomar
