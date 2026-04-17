@@ -49,8 +49,17 @@ Transforms insights into clear actions:
 
 ---
 
-## 📈 Dashboard Preview
-![Dashboard]([[images/dashboard_preview.png](https://public.tableau.com/app/profile/vanshika.tomar/viz/finsight_dashboard/Dashboard?publish=yes](https://github.com/Vanshika1664/Blostem-AI-Builder-Hackathon/blob/main/dashboard_preview.png.png)))
+## 📈 Dashboard Overview
+
+The FinSight dashboard acts as a decision interface for businesses, combining multiple analytical views:
+
+- Behavioral segmentation using income and activity patterns  
+- Churn risk distribution to identify retention priorities  
+- Revenue opportunity analysis to highlight growth segments  
+- KPI summaries for quick business context  
+- Interactive filters for real-time exploration  
+
+Built using Tableau, the dashboard enables stakeholders to move from insight to action seamlessly.
 
 
 ---
