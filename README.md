@@ -88,25 +88,26 @@ Custom features engineered:
 
 ---
 
-## 📂 Project Structure
-FinSight
-│
-├── data
-│ ├── raw
-│ │ └── Mall_Customers.csv
-│ └── processed
-│ └── finsight_data.csv
-│
-├── notebook
-│ └── finsight_analysis.ipynb
-│
-├── dashboard
-│ └── finsight_dashboard.twbx
-│
-├── images
-│ └── dashboard_preview.png
-│
-└── README.md
+## 📁 Project Structure
+
+FinSight  
+│  
+├── data  
+│   ├── raw  
+│   │   └── store_customers.csv  
+│   └── processed  
+│       └── finsight_data.csv  
+│  
+├── notebook  
+│   └── finsight_analysis.ipynb  
+│  
+├── dashboard  
+│   └── finsight_dashboard.twbx  
+│  
+├── images  
+│   └── dashboard_preview.png  
+│  
+└── README.md  
 
 ---
 
